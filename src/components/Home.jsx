@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <>
       <div className="hero">
-        <h1>NameButler</h1>
+        <h1>You Tell, We Think</h1>
         <input
           type="text"
           value={searchedText}

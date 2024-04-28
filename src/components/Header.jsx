@@ -5,7 +5,7 @@ export default function Header() {
     <>
       <nav className="navbar">
         <div className="logo">
-          <h1>NameButler</h1>
+          <h1>AI Domain Name Generator</h1>
         </div>
         <ul>
           <li>
